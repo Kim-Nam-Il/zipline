@@ -9,7 +9,6 @@
 |Gitter|
 |pypi version status|
 |pypi pyversion status|
-|travis status|
 |appveyor status|
 |Coverage Status|
 
